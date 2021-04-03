@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Rectangle Collison
+This is a simple program that shows when two rectangles collide.
